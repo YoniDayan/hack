@@ -45,6 +45,8 @@ Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.f
 
 ### First pitches
 
+Teams that made it through the first pitches were required to show working demos.
+
 * 外语2CommonLanguage
 * Gutenberg and Bruxelles
 * KNOTES
