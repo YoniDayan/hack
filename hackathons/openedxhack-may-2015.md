@@ -45,7 +45,7 @@ Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.f
 
 ### First pitches
 
-Teams that made it through the first pitches were required to show working demos.
+Teams that made it through the first pitches were teams that had working demos to present.
 
 * [外语2CommonLanguage](#p1)
 * [Gutenberg and Bruxelles](#p3)
