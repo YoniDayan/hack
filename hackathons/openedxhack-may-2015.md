@@ -9,7 +9,7 @@ This hackathon was organized by [IONISx](https://ionisx.com), [France Universit�
 
 This was a nation-wide event, happening in [8 French cities](http://hack.openedx.fr/sites.html) : Paris, Bordeaux, Lyon, Marseille, Nancy, Rennes, Strasbourg and Toulouse.
 
-It was hosted by [ETNA](http://www.etna-alternance.net/), [Epitech](http://www.epitech.eu/) and [ENSIEE](http://www.ensiie.fr/).
+It was hosted by [ETNA](http://www.etna-alternance.net/), [Epitech](http://www.epitech.eu/) and [ENSIIE](http://www.ensiie.fr/).
 
 Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.fr/index-en.html).
 
