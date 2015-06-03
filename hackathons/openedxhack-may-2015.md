@@ -45,7 +45,7 @@ Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.f
 
 ### First pitches
 
-Teams that made it through the first pitches were teams that had working demos to present.
+Teams that made it through the first pitches were teams that had working demos to present. 5 cities out of the 8 are present in the finalists.
 
 * [外语2CommonLanguage](#p1)
 * [Gutenberg and Bruxelles](#p3)
